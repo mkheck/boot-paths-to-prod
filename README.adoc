@@ -1,0 +1,17 @@
+= All Paths Lead to Production: A Fast Paced Deep Dive into the Many Ways to deliver Spring Boot Apps to PROD!
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This repo accompanies my session titled *"All Paths Lead to Production: A Fast Paced Deep Dive into the Many Ways to deliver Spring Boot Apps to PROD!"* and includes all code written within the session.
+
+I evolve and add to the session content over time, so star+watch this repo for updates!
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/boot-all-paths["All Paths Lead to Production: A Fast Paced Deep Dive into the Many Ways to deliver Spring Boot Apps to PROD!" presentation]
